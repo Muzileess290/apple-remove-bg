@@ -38,6 +38,16 @@ for f in *.png; do
 done
 ```
 
+## Before / After
+
+AI-generated game assets, backgrounds removed with a single command:
+
+| Before | After |
+|--------|-------|
+| ![House with background](demo/house_before.png) | ![House transparent](demo/house_after.png) |
+
+*AI-generated MapleStory-style building sprite, background removed via `./remove-bg building_house.png building_house_nobg.png`*
+
 ## How it works
 
 ```
