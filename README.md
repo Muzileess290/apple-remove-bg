@@ -2,6 +2,8 @@
 
 Remove image backgrounds using Apple's native Vision framework. **Offline, zero API cost, instant.**
 
+[中文](README.zh-CN.md)
+
 Uses `VNGenerateForegroundInstanceMaskRequest` — the same subject-detection engine behind the "Lift Subject" feature in Photos, Safari, and iMessage.
 
 ## Requirements
