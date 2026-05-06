@@ -42,11 +42,15 @@ done
 
 AI-generated game assets, backgrounds removed with a single command:
 
-| Before | After |
-|--------|-------|
-| ![House with background](demo/house_before.png) | ![House transparent](demo/house_after.png) |
+| Type | Before | After |
+|------|--------|-------|
+| House | ![house before](demo/house_before.png) | ![house after](demo/house_after.png) |
+| Shop | ![shop before](demo/shop_before.png) | ![shop after](demo/shop_after.png) |
+| Workshop | ![workshop before](demo/workshop_before.png) | ![workshop after](demo/workshop_after.png) |
+| School | ![school before](demo/school_before.png) | ![school after](demo/school_after.png) |
+| Plaza | ![plaza before](demo/plaza_before.png) | ![plaza after](demo/plaza_after.png) |
 
-*AI-generated MapleStory-style building sprite, background removed via `./remove-bg building_house.png building_house_nobg.png`*
+*AI-generated MapleStory-style building sprites, backgrounds removed with a single `./remove-bg` command each.*
 
 ## How it works
 
